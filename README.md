@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Chris92de/Chris92de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christopher "Chris92" Flügel, a 29y/o developer/sysadmin/devops engineer from Germany.
 
-Here are some ideas to get you started:
+Currently I'm one of the Organization Leads and developers for [EvoTM](https://github.com/EvoTM) - the biggest independent community in Trackmania.
+We host several in-game servers and actively develop several open-source projects related to the Trackmania games by Ubisoft Nadeo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [EvoSC](https://github.com/EvoTM/EvoSC) and [EvoSC#](https://github.com/EvoTM/EvoSC-Sharp]
+- 🌱 I’m currently learning C#
+- 💬 Ask me about Esports, Video Games and what I had for dinner last night
+- 📫 How to reach me: [Twitter](https://twitter.com/Chris92_de) or Discord: `Chris92#0092`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I try to be funny but fail hilariously at it.
+
